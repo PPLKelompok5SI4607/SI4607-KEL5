@@ -4,3 +4,5 @@ Jelita
 Fauzan
 Ardelia Luthfi Agata
 Resta
+
+SCRUM-7
